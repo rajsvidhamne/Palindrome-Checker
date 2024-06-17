@@ -1,0 +1,26 @@
+body {
+   font-family: Arial, sans-serif;
+   background-color: #f8f9fa;
+}
+
+.card {
+   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+   border-radius: 10px;
+}
+
+.card-header {
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
+
+.form-group label {
+   color: #495057;
+}
+
+#result {
+   padding: 10px;
+   background-color: #e9ecef;
+   border-radius: 5px;
+   font-weight: bold;
+   color: #333;
+}
